@@ -1,0 +1,7 @@
+project list: 
+1) Online Responsive E-Commerce Platform for Kitchenware
+2) Online Kitchen
+3) Online Pets Buying and Selling Store
+4) Full Stack Job portal with Strapi and Next.js using REST API and Postgres
+5) Ambulance Booking System (ABS)
+6) EyeCare Center
